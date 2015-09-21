@@ -1,3 +1,4 @@
 Create a line in file1.txt
 Some fix in file1.txt
 Some text for file.txt from master
+Section 1
