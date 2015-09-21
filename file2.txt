@@ -1,2 +1,3 @@
 Change to file2.txt
+First change using feature2
 Some weird change to file2.txt
