@@ -1,1 +1,2 @@
 Create a line in file1.txt
+Some fix in file1.txt
