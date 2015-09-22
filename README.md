@@ -6,3 +6,4 @@ This is the first exercise in a series of exercises to become better at using gi
 # Section 5
 - bullet for section 5
 # Section 6
+- Bullet for section 6
