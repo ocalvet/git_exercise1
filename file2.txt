@@ -1,1 +1,2 @@
 Change to file2.txt
+Some weird change to file2.txt
