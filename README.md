@@ -4,3 +4,4 @@ This is the first exercise in a series of exercises to become better at using gi
 # Section 3
 - section 3 bullet 1
 # Section 5
+- bullet for section 5
