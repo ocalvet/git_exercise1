@@ -12,3 +12,4 @@ This is the first exercise in a series of exercises to become better at using gi
 
 # Section 6
 - Bullet for section 6
+end line
